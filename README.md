@@ -1,6 +1,3 @@
-Berikut adalah isi lengkap file `README.md` yang siap kamu **copy-paste langsung ke dalam proyekmu**:
-
----
 
 ````markdown
 # 🏠 Web Desain Interior — API Documentation
